@@ -1,2 +1,1 @@
-# Flufferi-Bot
-DIscord bot for a simple dating-sim style game
+# Flufferi-Bot: WIP dating sim bot
